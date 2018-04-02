@@ -4,7 +4,6 @@ import { SET_ROOMS, SET_ROOM } from '../actions/room';
 
 const initialState = {
 rooms: []
-
 room: null,
 };
 
